@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tic Tac Toe</title>
-  
+  </head>
+<body>
     # Tic Tac Toe Game 🎮
 
     ## Description:
@@ -31,10 +31,7 @@
    
     
   
-</head>
-<body>
-  <h1>Tic Tac Toe Game</h1>
-  <p>This is a placeholder for the game interface. Add the game logic and layout here.</p>
+
 </body>
 </html>
 
